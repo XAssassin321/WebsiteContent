@@ -7,7 +7,8 @@ url: "xassassin.com" # the base hostname & protocol for your site, e.g. http://e
 
 # Build settings
 #markdown: kramdown
-theme: jekyll-theme-minimal
+#theme options : minima, jekyll-theme-minimal, 
+theme: minima
 
 plugins:
   - jekyll-asciidoc
